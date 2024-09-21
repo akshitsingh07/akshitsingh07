@@ -4,14 +4,14 @@
 Python Web Developer & Designer
 ------------------------
 
-◾ Passionate Python Developer | Django Enthusiast | Microservices and API Maestro
-◾ Dedicated and detail-oriented Python developer with hands-on experience, specializing in Django framework, microservices architecture, and API development. Eager to contribute expertise in building scalable and robust solutions to drive innovation.
-◾🚀 Successfully developed and deployed microservices, showcasing a knack for designing efficient and modular code structures.
-🌐 Proficient in crafting RESTful APIs, ensuring seamless communication between applications and systems.
+◾ Passionate Python Developer | Django Enthusiast | Microservices and API Maestro<br>
+◾ Dedicated and detail-oriented Python developer with hands-on experience, specializing in Django framework, microservices architecture, and API development. Eager to contribute expertise in building scalable and robust solutions to drive innovation.<br>
+◾🚀 Successfully developed and deployed microservices, showcasing a knack for designing efficient and modular code structures.<br>
+🌐 Proficient in crafting RESTful APIs, ensuring seamless communication between applications and systems.<br>
 
-* 🌍  I'm based in Lucknow, Uttar Pradesh, India
+* 🌍  I'm based in Noida, Uttar Pradesh, India
 * ✉️  You can contact me at [akshitsingh1436@gmail.com](mailto:akshitsingh1436@gmail.com)
-* 🧠  I'm learning Python Django Framework.
+* 🧠  I'm learning Angular, NodeJS Framework.
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly Spiderman...but don't tell anyone.
 
