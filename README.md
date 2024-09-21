@@ -8,6 +8,8 @@ Python Web Developer & Designer
 ◾ Dedicated and detail-oriented Python developer with hands-on experience, specializing in Django framework, microservices architecture, and API development. Eager to contribute expertise in building scalable and robust solutions to drive innovation.<br>
 ◾🚀 Successfully developed and deployed microservices, showcasing a knack for designing efficient and modular code structures.<br>
 🌐 Proficient in crafting RESTful APIs, ensuring seamless communication between applications and systems.<br>
+◾🚀Cloud Services: Extensive experience with AWS, including S3, RDS, and VPC, for creating and maintaining cloud-native solutions.<br>
+◾Microservices: Skilled in designing and implementing microservice architectures that ensure scalability and reliability
 
 * 🌍  I'm based in Noida, Uttar Pradesh, India
 * ✉️  You can contact me at [akshitsingh1436@gmail.com](mailto:akshitsingh1436@gmail.com)
