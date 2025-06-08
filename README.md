@@ -13,7 +13,7 @@ Python Web Developer & Designer
 
 * 🌍  I'm based in Noida, Uttar Pradesh, India
 * ✉️  You can contact me at [akshitsingh1436@gmail.com](mailto:akshitsingh1436@gmail.com)
-* 🧠  I'm learning Angular, NodeJS Framework.
+* 🧠  I'm learning DRF, FastAPI, Flask Framework along with AWS services.
 * 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
